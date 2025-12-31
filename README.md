@@ -65,11 +65,10 @@ The system includes onboard motion sensing and environmental awareness through a
   <i>Wing hinge joint CAD model forming the main rotational connection between the wing and internal linkage system.</i>
 </p>
 
-### Videos
 
-<video controls width="100%">
-  <source src="smart_bionic_butterfly_demo.mp4" type="video/mp4">
-</video>
+### 🎥 Demo Video
+
+▶️ [Click here to play the demo video](smart_bionic_butterfly_demo.mp4)
 
 <p align="center">
   <i>
