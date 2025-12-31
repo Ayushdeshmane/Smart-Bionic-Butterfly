@@ -66,16 +66,14 @@ The system includes onboard motion sensing and environmental awareness through a
 </p>
 
 
-### Video
+## Video
 
- [Click here to play the demo video](smart_bionic_butterfly_demo.mp4)
+[![Smart Bionic Butterfly Demo](images/complete_butterfly_cad_assembly.png)](videos/smart_bionic_butterfly_demo.mp4)
 
-<p align="center">
-  <i>
-  Complete demonstration of the Smart Bionic Butterfly system, including sensor testing, CAD model visualization, internal electronics assembly, controlled wing actuation, and gesture-assisted directional motion during operation.
-  </i>
-</p>
-
+<i>
+Click the image above to watch the full demonstration of the Smart Bionic Butterfly,
+showcasing wing actuation, embedded electronics, sensor feedback, and gesture-assisted control.
+</i>
 
 ## Features 
 
