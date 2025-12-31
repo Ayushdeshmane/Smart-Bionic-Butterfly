@@ -65,15 +65,18 @@ The system includes onboard motion sensing and environmental awareness through a
   <i>Wing hinge joint CAD model forming the main rotational connection between the wing and internal linkage system.</i>
 </p>
 
+### Videos
 
-## Video
+<video controls width="100%">
+  <source src="videos/smart_bionic_butterfly_demo.mp4" type="video/mp4">
+</video>
 
-[![Smart Bionic Butterfly Demo](images/complete_butterfly_cad_assembly.png)](videos/smart_bionic_butterfly_demo.mp4)
+<p align="center">
+  <i>
+  Complete demonstration of the Smart Bionic Butterfly system, including sensor testing, CAD model visualization, internal electronics assembly, controlled wing actuation, and gesture-assisted directional motion during operation.
+  </i>
+</p>
 
-<i>
-Click the image above to watch the full demonstration of the Smart Bionic Butterfly,
-showcasing wing actuation, embedded electronics, sensor feedback, and gesture-assisted control.
-</i>
 
 ## Features 
 
