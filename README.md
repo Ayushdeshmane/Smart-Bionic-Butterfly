@@ -67,9 +67,10 @@ The system includes onboard motion sensing and environmental awareness through a
 
 ### Videos
 
-<video controls width="100%">
-  <source src="videos/smart_bionic_butterfly_demo.mp4" type="video/mp4">
-</video>
+**Click below to play the demo video**
+
+[Smart Bionic Butterfly – Full Demonstration](videos/smart_bionic_butterfly_demo.mp4)
+
 
 <p align="center">
   <i>
