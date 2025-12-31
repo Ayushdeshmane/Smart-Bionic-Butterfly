@@ -66,9 +66,9 @@ The system includes onboard motion sensing and environmental awareness through a
 </p>
 
 
-### 🎥 Demo Video
+### Video
 
-▶️ [Click here to play the demo video](smart_bionic_butterfly_demo.mp4)
+ [Click here to play the demo video](smart_bionic_butterfly_demo.mp4)
 
 <p align="center">
   <i>
